@@ -6,4 +6,4 @@
 
 addon: <a href = "https://github.com/kentaroid/ofxTrueTypeFontUL2">ofxtruetypefontUL2</a> + <a href="https://github.com/maxillacult/ofxPostGlitch">ofxPostGlitch</a>
 
-動作環境:macOS Catalina + Xcode 11.4.1 + openFrameworks v0.11.0
+動作環境: macOS Catalina + Xcode 11.4.1 + openFrameworks v0.11.0
